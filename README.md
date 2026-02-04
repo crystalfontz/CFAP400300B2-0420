@@ -6,7 +6,7 @@ Product page: <https://www.crystalfontz.com/product/cfap400300B20420>
 
 ## Hardware
 
-This code was written for a Seeeduino v4.2 @ 3.3V. An Arduino UNO modified to run at 3.3V will also work.
+This code was written for a Seeeduino v4.3 @ 3.3V. An Arduino UNO modified to run at 3.3V will also work.
 
 ### Display Wiring
 
