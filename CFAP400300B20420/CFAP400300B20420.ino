@@ -35,27 +35,17 @@
 //=============================================================================
 // Connecting the Arduino to the display
 //
-// ARDUINO |Adapter |Wire Color |Function
-// --------+--------+-----------+--------------------
-// D3      |17      |Green      |Busy Line
-// D4      |18      |Brown      |Reset Line
-// D5      |15      |Purple     |Data/Command Line
-// D10     |16      |Blue       |Chip Select Line
-// D11     |14      |White      |MOSI
-// D13     |13      |Orange     |Clock
-// 3.3V    |5       |Red        |Power
-// GND     |3       |Black      |Ground
+// ARDUINO |CFA10098 |Wire Color |Function
+// --------+---------+-----------+--------------------
+// D3      |17       |Green      |Busy Line
+// D4      |18       |Brown      |Reset Line
+// D5      |15       |Purple     |Data/Command Line
+// D10     |16       |Blue       |Chip Select Line
+// D11     |14       |White      |MOSI
+// D13     |13       |Orange     |Clock
+// 3.3V    |5        |Red        |Power
+// GND     |3        |Black      |Ground
 //
-//=============================================================================
-// Connecting the Arduino to the SD card
-// A CFA10112 micro SD card adapter can be used: https://www.crystalfontz.com/product/cfa10112
-//
-// ARDUINO  |Wire Color |Function
-// ---------+-----------+--------------------
-// D8       |Blue       |CS
-// D11      |Green      |MOSI
-// D12      |Purple     |MISO
-// D13      |Brown      |CLK
 //=============================================================================
 // Creating image data arrays
 //
